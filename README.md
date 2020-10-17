@@ -33,6 +33,8 @@ Kathmandu, Nepal
 - [Deploy Scalable and Highly Available Web App (Omaha Server) on AWS Cloud](https://medium.com/@ptuladhar3/deploy-scalable-and-highly-available-web-app-omaha-server-on-aws-cloud-69e26df7c85b)
 - [Email Productivity: Organize your Gmail Labels as Tabs](https://medium.com/@ptuladhar3/email-productivity-organize-your-gmail-labels-as-tabs-3c29acc7b350)
 - [Linux Commands for Developers](https://medium.com/@ptuladhar3/linux-commands-for-developers-d88baba576b4)
+- [Hacktoberfest 2020: My journey as a maintainer](https://medium.com/@ptuladhar3/hacktoberfest-2020-day-6-my-journey-as-a-maintainer-c347367469a7)
+- [Rocket.Chat Desktop: No valid server found at the URL…wait what?!](https://medium.com/@ptuladhar3/rocket-chat-desktop-no-valid-server-found-at-the-url-wait-what-bde80748152a)
 
 ## :microphone: Talks I've Given
 
@@ -70,6 +72,8 @@ Kathmandu, Nepal
 - ["NMB Bank LastPass Integration" extension for Google Chrome](https://github.com/tuladhar/nmb-lastpass)
 - ["Gmail Labels as Tabs" extension for Google Chrome](https://github.com/tuladhar/gmail-labels-as-tabs)
 - [Contribution to Platform.sh CLI project - Github Action CI Workflow](https://github.com/platformsh/platformsh-cli/pull/977)
+- [set-brightness - 🔆 Adjust the display brightness from command-line for Linux (open-source)](https://github.com/tuladhar/set-brightness)
+- [gocat - Unix cat implementation in Go](https://github.com/tuladhar/gocat)
 
 ## 🏅 Awards, Achievements & Honors
 ### Personal 
