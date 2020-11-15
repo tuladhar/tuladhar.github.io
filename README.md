@@ -35,6 +35,7 @@ Kathmandu, Nepal
 - [Linux Commands for Developers](https://medium.com/@ptuladhar3/linux-commands-for-developers-d88baba576b4)
 - [Hacktoberfest 2020: My journey as a maintainer](https://medium.com/@ptuladhar3/hacktoberfest-2020-day-6-my-journey-as-a-maintainer-c347367469a7)
 - [Rocket.Chat Desktop: No valid server found at the URL…wait what?!](https://medium.com/@ptuladhar3/rocket-chat-desktop-no-valid-server-found-at-the-url-wait-what-bde80748152a)
+- [Schedule MongoDB Backup to S3 using Kubernetes CronJob](https://ptuladhar3.medium.com/schedule-mongodb-backup-to-s3-using-kubernetes-cronjob-79ca811e1fc0)
 
 ## :microphone: Talks I've Given
 
@@ -117,4 +118,4 @@ Kathmandu, Nepal
 
 
 ## :handshake: Get In Touch
-Drop me an email [ptuladhar3@gmail.com](mailto:ptuladhar3@gmail.com)
+Drop me an email [ptuladhar3@gmail.com](mailto:ptuladhar3@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/ptuladhar3/)
