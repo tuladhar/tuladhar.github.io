@@ -36,6 +36,7 @@ Kathmandu, Nepal
 - [Hacktoberfest 2020: My journey as a maintainer](https://medium.com/@ptuladhar3/hacktoberfest-2020-day-6-my-journey-as-a-maintainer-c347367469a7)
 - [Rocket.Chat Desktop: No valid server found at the URL…wait what?!](https://medium.com/@ptuladhar3/rocket-chat-desktop-no-valid-server-found-at-the-url-wait-what-bde80748152a)
 - [Schedule MongoDB Backup to S3 using Kubernetes CronJob](https://ptuladhar3.medium.com/schedule-mongodb-backup-to-s3-using-kubernetes-cronjob-79ca811e1fc0)
+- [Dynamically Increase SWAP (ZRAM) Size in Linux](https://ptuladhar3.medium.com/dynamically-adjust-swap-zram-size-in-fedora-linux-78cd712808f2)
 
 ## :microphone: Talks I've Given
 
