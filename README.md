@@ -69,6 +69,7 @@ Kathmandu, Nepal
 
 **2019**
 - [Python for Systems Administrator](https://github.com/tuladhar/Python-for-SysAdmin-Part-I)
+- [Hacktoberfest 2019 Contributor](https://hacktoberfest.digitalocean.com/)
 
 **2020**
 - ["NMB Bank LastPass Integration" extension for Google Chrome](https://github.com/tuladhar/nmb-lastpass)
@@ -76,6 +77,7 @@ Kathmandu, Nepal
 - [Contribution to Platform.sh CLI project - Github Action CI Workflow](https://github.com/platformsh/platformsh-cli/pull/977)
 - [set-brightness - 🔆 Adjust the display brightness from command-line for Linux (open-source)](https://github.com/tuladhar/set-brightness)
 - [gocat - Unix cat implementation in Go](https://github.com/tuladhar/gocat)
+- [Hacktoberfest 2020 Contributor and Maintainer](https://hacktoberfest.digitalocean.com/)
 
 ## 🏅 Awards, Achievements & Honors
 ### Personal 
