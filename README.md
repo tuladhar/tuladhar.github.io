@@ -79,6 +79,9 @@ Kathmandu, Nepal
 - [gocat - Unix cat implementation in Go](https://github.com/tuladhar/gocat)
 - [Hacktoberfest 2020 Contributor and Maintainer](https://hacktoberfest.digitalocean.com/)
 
+**2021**
+- [easy-openvpn - Hassel-free OpenVPN server setup using Docker with a single command](https://github.com/tuladhar/easy-openvpn)
+
 ## 🏅 Awards, Achievements & Honors
 ### Personal 
 **2018**
