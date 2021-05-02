@@ -107,21 +107,5 @@ Kathmandu, Nepal
 **2020**
 - 🥇 Winner - CloudFactory Futsal Tournament - [CloudFactory](https://cloudfactory.com)
 
-
-## :office: Where do I work?
-
-**2018-Present**
-- Senior Software Engineer (DevOps) - [CloudFactory](https://cloudfactory.com)
-
-**2014 - 2016**
-- Systems Administrator (Remote) - [Appstractor](https://www.trustedproxies.com)
-
-**2013 - 2014**
-- DevOps Engineer - [Leapfrog Technology](lftechnology.com)
-
-**2013**
-- Linux Systems Administrator - [Nepal Link Networks](https://www.nepallink.net/)
-
-
 ## :handshake: Get In Touch
 Drop me an email [ptuladhar3@gmail.com](mailto:ptuladhar3@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/ptuladhar3/)
