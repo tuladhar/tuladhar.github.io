@@ -73,7 +73,7 @@ Kathmandu, Nepal
 
 **2020**
 - ["NMB Bank LastPass Integration" extension for Google Chrome](https://github.com/tuladhar/nmb-lastpass)
-- ["Gmail Labels as Tabs" extension for Google Chrome](https://github.com/tuladhar/gmail-labels-as-tabs)
+- ["Gmail Labels as Tabs" extension for Google Chrome](https://github.com/tuladhar/gmail-labels-as-tabs) #LockdownProject
 - [Contribution to Platform.sh CLI project - Github Action CI Workflow](https://github.com/platformsh/platformsh-cli/pull/977)
 - [set-brightness - 🔆 Adjust the display brightness from command-line for Linux (open-source)](https://github.com/tuladhar/set-brightness)
 - [gocat - Unix cat implementation in Go](https://github.com/tuladhar/gocat)
@@ -81,6 +81,7 @@ Kathmandu, Nepal
 
 **2021**
 - [easy-openvpn - Hassel-free OpenVPN server setup using Docker with a single command](https://github.com/tuladhar/easy-openvpn)
+- [himalisamay.com - Offical Website for Himali Samay Watches - ](https://himalisamay.com) #LockdownProject
 
 ## 🏅 Awards, Achievements & Honors
 ### Personal 
