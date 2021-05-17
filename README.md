@@ -84,7 +84,7 @@ Kathmandu, Nepal
 - [himalisamay.com - Offical Website for Himali Samay Watches](https://himalisamay.com) `#LockdownProject`
 - [Contribution to RKE2 Kubernetes Distribution](https://github.com/rancher/rke2/pull/991)
 
-## 🏅 Awards, Achievements & Honors
+## 🏅 Awards & Certifications
 ### Personal 
 **2018**
 - Certificate of Appreciation - Website Security - [merojob - AIM Higher](https://merojob.com/)
@@ -108,6 +108,10 @@ Kathmandu, Nepal
 
 **2020**
 - 🥇 Winner - CloudFactory Futsal Tournament - [CloudFactory](https://cloudfactory.com)
+
+**2021**
+- [Google Cloud Certified - Professional Cloud Developer](https://www.credential.net/7387f35e-a76d-4a0a-aa6a-1bdc31a040a4)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/44c519e9-73a5-4228-ba97-b8cc118ef5f1/public_url)
 
 ## :handshake: Get In Touch
 Drop me an email [ptuladhar3@gmail.com](mailto:ptuladhar3@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/ptuladhar3/)
