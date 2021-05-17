@@ -114,4 +114,4 @@ Kathmandu, Nepal
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/44c519e9-73a5-4228-ba97-b8cc118ef5f1/public_url)
 
 ## :handshake: Get In Touch
-Drop me an email [ptuladhar3@gmail.com](mailto:ptuladhar3@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/ptuladhar3/)
+Drop me an email [ptuladhar3@gmail.com](mailto:ptuladhar3@gmail.com) or DM me on [Twitter](https://twitter.com/ptuladhar3) or connect via [LinkedIn](https://www.linkedin.com/in/ptuladhar3/)
