@@ -37,6 +37,7 @@ Kathmandu, Nepal
 - [Rocket.Chat Desktop: No valid server found at the URL…wait what?!](https://medium.com/@ptuladhar3/rocket-chat-desktop-no-valid-server-found-at-the-url-wait-what-bde80748152a)
 - [Schedule MongoDB Backup to S3 using Kubernetes CronJob](https://ptuladhar3.medium.com/schedule-mongodb-backup-to-s3-using-kubernetes-cronjob-79ca811e1fc0)
 - [Dynamically Increase SWAP (ZRAM) Size in Linux](https://ptuladhar3.medium.com/dynamically-adjust-swap-zram-size-in-fedora-linux-78cd712808f2)
+- [GitHub Actions Self-Hosted Runner on Kubernetes](https://ptuladhar3.medium.com/github-actions-self-hosted-runner-on-kubernetes-55d077520a31)
 
 ## :microphone: Talks I've Given
 
