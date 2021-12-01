@@ -1,10 +1,10 @@
 # Namaste
 
-### :pray: Thank you for taking time to visit my website.
+### :pray: Warm, welcome to my personal website.
 
 ## :house: Where do I live?
 
-Kathmandu, Nepal
+🇳🇵 [Kathmandu, Nepal](https://en.wikipedia.org/wiki/Kathmandu)
 
 ![Beautiful city of Kathmandu at night](images/kathmandu.jpg)
 
