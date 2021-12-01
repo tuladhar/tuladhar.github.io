@@ -10,16 +10,22 @@ Kathmandu, Nepal
 
 ## :bicyclist: My Hobbies
 **Away from keyboard**
-- Soccer fanatic
-- Amature Cyclist
-- Go on an adventures and explore new places
-- Amature Guitarist (wanna be Joe Satriani :guitar:)
+- Footballer, Cyclist, [Guitarist](https://www.youtube.com/channel/UCpQaiAIOtOj-hs5vDe09WFQ)
+- Thrill seeker and explorer
+
+[![Bungee](https://user-images.githubusercontent.com/5674762/144253824-3755aa77-f61f-45d9-98a5-0ad8281719b9.png)](https://www.youtube.com/watch?v=6ItDkO3owgA)
+[![Swing](https://user-images.githubusercontent.com/5674762/144254169-271426fe-df92-408a-bc0e-22aa0f12fe4a.png)](https://www.youtube.com/watch?v=7Ys0r1-VN9k)
+
+- Cooking Chinese Food (trying 😋)
+
+![Spicy stir-fry shrimp](https://user-images.githubusercontent.com/5674762/144254628-ca659012-ad37-43d9-945d-495db44495c2.png)
 
 
 **!Away from keyboard**
-- Hacking on projects during my free-time
+- Hacking on cool and fun projects
 - Teaching programming & photo/video editing skillz to my 6 years and 13 years old niece (__trying!__ :man_facepalming:)
-  - She told me to promote her [Youtube Channel](https://www.youtube.com/channel/UCCTrCgL_uH2FIm1_oyB1vVw)
+  - [Youtube Channel](https://www.youtube.com/channel/UCCTrCgL_uH2FIm1_oyB1vVw)
+  - [Youtube Channel](https://www.youtube.com/channel/UCa2qDmShRr5yn7IRjnU8OFg)
 
 ## :pencil2: Blogs I've Written
 
@@ -39,6 +45,7 @@ Kathmandu, Nepal
 - [Dynamically Increase SWAP (ZRAM) Size in Linux](https://ptuladhar3.medium.com/dynamically-adjust-swap-zram-size-in-fedora-linux-78cd712808f2)
 - [GitHub Actions Self-Hosted Runner on Kubernetes](https://ptuladhar3.medium.com/github-actions-self-hosted-runner-on-kubernetes-55d077520a31)
 - [Monitoring & Alerting for WireGuard VPN](https://ptuladhar3.medium.com/wireguard-vpn-monitoring-alerting-e1e1d1eaaa4e)
+- [Kubernetes: Evenly Distribution of Pods Across Cluster Nodes](https://ptuladhar3.medium.com/kubernetes-distributing-pods-evenly-across-cluster-c6bdc9b49699)
 
 ## :microphone: Talks I've Given
 
