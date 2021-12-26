@@ -46,6 +46,7 @@
 - [GitHub Actions Self-Hosted Runner on Kubernetes](https://ptuladhar3.medium.com/github-actions-self-hosted-runner-on-kubernetes-55d077520a31)
 - [Monitoring & Alerting for WireGuard VPN](https://ptuladhar3.medium.com/wireguard-vpn-monitoring-alerting-e1e1d1eaaa4e)
 - [Kubernetes: Evenly Distribution of Pods Across Cluster Nodes](https://ptuladhar3.medium.com/kubernetes-distributing-pods-evenly-across-cluster-c6bdc9b49699)
+- [Testing SSL/TLS handshake latency using ssl-handshake](https://ptuladhar3.medium.com/testing-ssl-tls-handshake-latency-using-ssl-handshake-6a0c497890d1)
 
 ## :microphone: Talks I've Given
 
