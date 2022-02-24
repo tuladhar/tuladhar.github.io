@@ -122,9 +122,13 @@
 **2020**
 - 🥇 Winner - CloudFactory Futsal Tournament - [CloudFactory](https://cloudfactory.com)
 
+
 **2021**
 - [Google Cloud Certified - Professional Cloud Developer](https://www.credential.net/7387f35e-a76d-4a0a-aa6a-1bdc31a040a4)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/44c519e9-73a5-4228-ba97-b8cc118ef5f1/public_url)
+
+**2022**
+- [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/dc31c1fc-a3e1-4f3e-a94a-5d211bbc7c07/public_url)
 
 ## :handshake: Get In Touch
 Drop me an email [ptuladhar3@gmail.com](mailto:ptuladhar3@gmail.com) or DM me on [Twitter](https://twitter.com/ptuladhar3) or connect via [LinkedIn](https://www.linkedin.com/in/ptuladhar3/)
