@@ -130,6 +130,7 @@
 
 **2022**
 - [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/dc31c1fc-a3e1-4f3e-a94a-5d211bbc7c07/public_url)
+- [AWS Certified Solutions Architect - Professional](https://www.credly.com/badges/f5e39fa7-6d7c-4083-a77f-5f8f8c53ab55/public_url)
 
 ## :handshake: Get In Touch
 Drop me an email [ptuladhar3@gmail.com](mailto:ptuladhar3@gmail.com) or DM me on [Twitter](https://twitter.com/ptuladhar3) or connect via [LinkedIn](https://www.linkedin.com/in/ptuladhar3/)
