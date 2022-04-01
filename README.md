@@ -1,12 +1,16 @@
 # Namaste
 
-### :pray: Warm, welcome to my personal website.
+### 👋 Hey there! Namaste and welcome to my personal website! 🙏
 
 ## :house: Where do I live?
 
 🇳🇵 [Kathmandu, Nepal](https://en.wikipedia.org/wiki/Kathmandu)
 
+🇳🇵 [Jhapa, Nepal](https://en.wikipedia.org/wiki/Jhapa_District)
+
 ![Beautiful city of Kathmandu at night](images/kathmandu.jpg)
+
+![Wonderful Jhapa](https://user-images.githubusercontent.com/5674762/161259108-5d1ec313-23b6-46b2-bdce-3075c69e0568.png)
 
 ## :bicyclist: My Hobbies
 **Away from keyboard**
@@ -99,6 +103,11 @@
 - [ssl-handshake - A command-line debugging tool to check the latency of SSL handshake](https://github.com/tuladhar/ssl-handshake)
 
 ## 🏅 Awards & Certifications
+
+### Certifications
+
+<a target='_blank' href='https://www.credential.net/7387f35e-a76d-4a0a-aa6a-1bdc31a040a4'> <img src="https://github.com/tuladhar/tuladhar/blob/main/images/1548352102758.png" height="200" width="200"> <a/> &nbsp; <a target='_blank' href='https://www.credly.com/badges/44c519e9-73a5-4228-ba97-b8cc118ef5f1/public_url'><img src="https://github.com/tuladhar/tuladhar/blob/main/images/AWS-CloudPractitioner-2020.png" height="200" width="200"></a> &nbsp; <a target='_blank' href='https://www.credly.com/badges/dc31c1fc-a3e1-4f3e-a94a-5d211bbc7c07/public_url'><img src="https://user-images.githubusercontent.com/5674762/155510157-3d422c98-a540-4792-88e1-738a61c00300.png" height="200" width="200"></a> &nbsp; <a target='_blank' href='https://www.credly.com/badges/f5e39fa7-6d7c-4083-a77f-5f8f8c53ab55/public_url'><img src="https://user-images.githubusercontent.com/5674762/161257977-6c8e6c01-7212-4041-9cf8-6704a13d57be.png" height="200" width="200"></a>
+
 ### Personal 
 **2018**
 - Certificate of Appreciation - Website Security - [merojob - AIM Higher](https://merojob.com/)
