@@ -52,6 +52,7 @@
 - [Kubernetes: Evenly Distribution of Pods Across Cluster Nodes](https://ptuladhar3.medium.com/kubernetes-distributing-pods-evenly-across-cluster-c6bdc9b49699)
 - [Testing SSL/TLS handshake latency using ssl-handshake](https://ptuladhar3.medium.com/testing-ssl-tls-handshake-latency-using-ssl-handshake-6a0c497890d1)
 - [AWS Certified Solution Architect Associate — SAA (C02) — Cheatsheet](https://ptuladhar3.medium.com/aws-certified-solution-architect-associate-saa-c02-cheatsheet-67e0e53f6f68)
+- [AWS Certified Solutions Architect Professional (SAP-C01) — Cheatsheet](https://ptuladhar3.medium.com/aws-certified-solutions-architect-professional-sap-c01-cheatsheet-70ed86229e09)
 
 ## :microphone: Talks I've Given
 
