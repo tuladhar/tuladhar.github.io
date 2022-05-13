@@ -53,6 +53,7 @@
 - [Testing SSL/TLS handshake latency using ssl-handshake](https://ptuladhar3.medium.com/testing-ssl-tls-handshake-latency-using-ssl-handshake-6a0c497890d1)
 - [AWS Certified Solution Architect Associate — SAA (C02) — Cheatsheet](https://ptuladhar3.medium.com/aws-certified-solution-architect-associate-saa-c02-cheatsheet-67e0e53f6f68)
 - [AWS Certified Solutions Architect Professional (SAP-C01) — Cheatsheet](https://ptuladhar3.medium.com/aws-certified-solutions-architect-professional-sap-c01-cheatsheet-70ed86229e09)
+- [Getting Started with External Secrets Operator on Kubernetes using AWS Secrets Manager](https://ptuladhar3.medium.com/getting-started-with-external-secrets-operator-on-kubernetes-using-aws-secrets-manager-6dc403d9630c)
 
 ## :microphone: Talks I've Given
 
