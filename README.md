@@ -104,6 +104,7 @@
 
 **2022**
 - [ssl-handshake - A command-line debugging tool to check the latency of SSL handshake](https://github.com/tuladhar/ssl-handshake)
+- [cleanup-aws-access-keys - A cloud security tool to search and clean up unused AWS access keys, written in Go.](https://github.com/tuladhar/cleanup-aws-access-keys)
 
 ## 🏅 Awards & Certifications
 
