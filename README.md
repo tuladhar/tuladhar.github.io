@@ -31,8 +31,7 @@
   - [Youtube Channel](https://www.youtube.com/channel/UCCTrCgL_uH2FIm1_oyB1vVw)
   - [Youtube Channel](https://www.youtube.com/channel/UCa2qDmShRr5yn7IRjnU8OFg)
 
-## :pencil2: Blogs I've Written
-
+## :pencil2: Blogs
 
 <a href="https://dev.to/ptuladhar3">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Puru's DEV Profile" height="30" width="30">
@@ -56,10 +55,13 @@
 - [Getting Started with External Secrets Operator on Kubernetes using AWS Secrets Manager](https://ptuladhar3.medium.com/getting-started-with-external-secrets-operator-on-kubernetes-using-aws-secrets-manager-6dc403d9630c)
 - [Learn Kubernetes Programming — Part 1](https://ptuladhar3.medium.com/learn-kubernetes-programming-part-1-7384e5f3c481)
 
-## :microphone: Talks I've Given
+## :microphone: Talks
 
 **2019**
 - [DevOps Automation: Infrastructure as Code](https://drive.google.com/file/d/1Kd_Ncx1y6VCgl9C_f4baAacyKz96b5ux/view), DevOps Meet-up Kathmandu
+
+**2022**
+- [AWS Community Days 2022 Nepal - Manage Kubernetes Secrets using AWS Secrets Manager](https://docs.google.com/presentation/d/1Eb2DAMxEExz2zPfNAwcG7pdI8nrs0UNI9M7u5pNzzUs/edit?usp=sharing)
 
 ## :computer: Open-Source Projects & Contributions
 **2013**
