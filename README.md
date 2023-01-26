@@ -98,6 +98,7 @@
 - [set-brightness - 🔆 Adjust the display brightness from command-line for Linux (open-source)](https://github.com/tuladhar/set-brightness)
 - [gocat - Unix cat implementation in Go](https://github.com/tuladhar/gocat)
 - [Hacktoberfest 2020 Contributor and Maintainer](https://hacktoberfest.digitalocean.com/)
+- [Twitter Bot - What's New at AWS](https://github.com/tuladhar/aws-whats-new-bot)
 
 **2021**
 - [easy-openvpn - Hassel-free OpenVPN server setup using Docker with a single command](https://github.com/tuladhar/easy-openvpn)
@@ -107,6 +108,10 @@
 **2022**
 - [ssl-handshake - A command-line debugging tool to check the latency of SSL handshake](https://github.com/tuladhar/ssl-handshake)
 - [cleanup-aws-access-keys - A cloud security tool to search and clean up unused AWS access keys, written in Go.](https://github.com/tuladhar/cleanup-aws-access-keys)
+- [GitOps Demonstration - Manage Kubernetes Clusters using Flux CD](https://github.com/tuladhar/gitops-demo)
+
+**2023**
+- [Disassociate route53 resolver rules from VPC IDs](https://github.com/tuladhar/route53-resolver-disassociations)
 
 ## 🏅 Awards & Certifications
 
