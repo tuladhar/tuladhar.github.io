@@ -6,11 +6,7 @@
 
 🇳🇵 [Kathmandu, Nepal](https://en.wikipedia.org/wiki/Kathmandu)
 
-🇳🇵 [Jhapa, Nepal](https://en.wikipedia.org/wiki/Jhapa_District)
-
 ![Beautiful city of Kathmandu at night](images/kathmandu.jpg)
-
-![Wonderful Jhapa](https://user-images.githubusercontent.com/5674762/161259108-5d1ec313-23b6-46b2-bdce-3075c69e0568.png)
 
 ## :bicyclist: My Hobbies
 **Away from keyboard**
@@ -157,4 +153,4 @@
 - [AWS Certified Solutions Architect - Professional](https://www.credly.com/badges/f5e39fa7-6d7c-4083-a77f-5f8f8c53ab55/public_url)
 
 ## :handshake: Get In Touch
-Drop me an email [ptuladhar3@gmail.com](mailto:ptuladhar3@gmail.com) or DM me on [Twitter](https://twitter.com/ptuladhar3) or connect via [LinkedIn](https://www.linkedin.com/in/ptuladhar3/)
+Drop me an email [ptuladhar3@gmail.com](mailto:ptuladhar3@gmail.com) or DM me on [Twitter](https://x.com/ptuladhar3) or connect via [LinkedIn](https://www.linkedin.com/in/ptuladhar3/)
